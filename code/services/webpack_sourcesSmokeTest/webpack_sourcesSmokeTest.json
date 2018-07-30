@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,webpack_sources",
+    "logging_enabled": "false",
+    "name": "webpack_sourcesSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "webpack_sourcesSmokeTest.js"
+}
